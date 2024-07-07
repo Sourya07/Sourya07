@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- React,Solidity,JavaScript
+- React,JavaScript,Aws,DOCKER
 
 - Ask me about react js , reactNative, Blockchain
 </p>
