@@ -1,7 +1,7 @@
 <h1 align="center"> Hey , I'm Sourya</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourya07&label=Profile%20views&color=0e75b6&style=flat" alt="sourya07" /> </p>
 - React,JavaScript,Aws,DOCKER
 
 - Ask me about react js , reactNative, Blockchain
