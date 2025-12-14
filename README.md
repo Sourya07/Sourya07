@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourya07&label=Profile%20views&color=0e75b6&style=flat" alt="sourya07" /> </p>
 - React,JavaScript,Aws,DOCKER
 
-- Ask me about react js , reactNative, Blockchain
+- Ask me about React , reactNative, anchor ,ether,web3
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
